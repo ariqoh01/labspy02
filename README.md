@@ -44,7 +44,7 @@ Diketahui 3 buah bilangan bil1,bil2,bil3, akan dicari nilai yang terbesar.
 10.Cetak “Bilangan Terbesar Bilangan Pertama”.
 11.Cetak “Bilangan Terbesar Bilangan Kedua”.
 12.Cetak “Bilangan Terbesar Bilangan Ketiga”.
-13.Selesai
+13.Selesai<P>
 ![GAMBAR 4](Ss/SS.PNG)
 ![GAMBAR 5](Ss/Screenshot2.PNG)
 
